@@ -1,0 +1,1 @@
+JournalApp is a robust journal application developed with Spring Boot, featuring enhanced security and scalable data management. The application allows users to securely create, read, update, and delete journal entries, integrating Spring Security for authentication and MongoDB Atlas for flexible data storage.
